@@ -1,5 +1,6 @@
 //Accept an integer, Print its square value
 
+
 #include <stdio.h>
 
 int main(){
