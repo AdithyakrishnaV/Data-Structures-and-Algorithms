@@ -1,7 +1,3 @@
-/*Name:
-  Description:
-*/
-
 //Accept a positive integer and print its reverse
 
 //543 345
