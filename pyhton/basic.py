@@ -321,4 +321,6 @@ print(num)
 
 #TypeError: 'tuple' object does not support item assignment
 
- 
+num=(1,2,3,4,3)
+print(num.count(3)) #count() takes exactly one argument (0 given)
+#result: 2
