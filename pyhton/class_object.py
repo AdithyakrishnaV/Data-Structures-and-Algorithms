@@ -17,9 +17,10 @@ class Person:
     def __init__(sugu,name,age):
         sugu.name=name
         sugu.age=age
+        
     def me(sugu):
         print("My name is ",sugu.name)
-        
+
 p1=Person("adi","20")
 print(p1.age)
 p1.me()
