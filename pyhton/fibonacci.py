@@ -4,8 +4,8 @@
 
 #0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610,......
 
-# n = int(input("How many terms? "))
-n=10
+n = int(input("How many terms? "))
+
 n1, n2= 0,1
 i = 0
 
