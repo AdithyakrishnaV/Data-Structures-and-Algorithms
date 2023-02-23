@@ -1,9 +1,4 @@
-//array is contiguous memory
-// //linked list  is unidirectional
-// //C Classes
-// // A class consists of an instance type and a class object: An instance type is a struct
-
-//  #include <stdio.h>
+ #include <stdio.h>
 // #include <stdlib.h>
 
 // struct node{
@@ -22,6 +17,7 @@
 //     int choose, val;
 
 //     do{
+//         scanf("%d", &choose);
 //         switch(choose){
 //             //insert node @ begining
 //             case 1:{
@@ -90,14 +86,19 @@
 //                         p = p->next;
 //                     }
 //                 }
+                
+//                 break;
 //             }
 
 //             //display linked list
 //             case 5:{
 //                 p=head;
 //                 while(p->next!=NULL){
-//                     printf("%d", &p);
+//                     printf("%d", p->data);
 //                 }
+//             }
+//             case6:{
+//                 break;
 //             }
 
 //         }
