@@ -12,30 +12,30 @@ mytuple=tuple(["adi",1,True,"a",'b','c'])
 a=[1,2,3,4,5,6,7,8]
 *i1, i2, i3 = a
 
-# print(i1)
-# print(i2)
-# print(i3)
+print(i1)
+print(i2)
+print(i3)
 
-# mydict=dict(name="Brundon",age=27,city="boston")
-# a=mydict["age"]
-# print(a)
-# print(mydict)
-# mydict["hobby"]="basketball"
-# print(mydict)
-# mydict.popitem()
-# print(mydict)
-# try:
-#     print(mydict["country"])
-# except:
-    # print("Error")
-# for key in mydict.keys():
-#     print(key)
-# print("-----------------------")
-# for value in mydict.values():
-#     print(value)
-# print("-----------------------")
-# for key, val in mydict.items():
-#     print(key,val)
+mydict=dict(name="Brundon",age=27,city="boston")
+a=mydict["age"]
+print(a)
+print(mydict)
+mydict["hobby"]="basketball"
+print(mydict)
+mydict.popitem()
+print(mydict)
+try:
+    print(mydict["country"])
+except:
+    print("Error")
+for key in mydict.keys():
+    print(key)
+print("-----------------------")
+for value in mydict.values():
+    print(value)
+print("-----------------------")
+for key, val in mydict.items():
+    print(key,val)
 mydict=dict(name="Brundon",age=27,city="boston")
 hisdict={"name":"Rahul", "age":"22", "city":"NewYork"}
 # mydict.update(hisdict)
