@@ -1,8 +1,5 @@
-
-
-#--------------------------------------
 #Tiples:- ordered, immutable, allows duplicate elements
-# mytuple=("adi",1, True)#brackets are optional
+mytuple=("adi",1, True)#brackets are optional
 #or 
 #mytuple="adi",1, True
 mytuple=tuple(["adi",1,True,"a",'b','c'])
