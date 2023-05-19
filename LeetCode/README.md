@@ -1,4 +1,6 @@
-#  Leetcode: <a href="https://www.blogger.com/profile/16427972840337712015" target="_blank">Code explanation Blog</a>
+#  Leetcode: <a href="https://adithyakrishnav.blogspot.com/" target="_blank">Code explanation Blog</a>
+<a  href="https://www.blogger.com/profile/16427972840337712015">Profile </a>
+
 -------------------------------
 
  # PYTHON 
