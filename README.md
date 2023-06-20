@@ -1,4 +1,5 @@
 #  Leetcode: <a href="https://adithyakrishnav.blogspot.com/" target="_blank">Code explanation Blog</a>
+# Hackerrank: <a href="https://github.com/AdithyakrishnaV/Cpp_Hackerrank_and_lean">C++</a> & <a href="https://github.com/AdithyakrishnaV/C_Hackerrank_and_note">C</a>
 
 # DSA in  C 
 <a href="https://www.youtube.com/watch?v=_eKsjD5AuIw&list=PL2K366VwU2XEjLQf7er_dBYgUDA-gyqSb">code explanation vedio link<a/>
