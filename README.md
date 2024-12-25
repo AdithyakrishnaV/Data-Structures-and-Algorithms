@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/adithyakrishna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 #  Leetcode: <a href="https://adithyakrishnav.blogspot.com/" target="_blank">Code explanation Blog</a>
 # Hackerrank: <a href="https://github.com/AdithyakrishnaV/Cpp_Hackerrank_and_lean">C++</a> & <a href="https://github.com/AdithyakrishnaV/C_Hackerrank_and_note">C</a>
 
